@@ -1,0 +1,1 @@
+{"cells":[{"kind":2,"language":"typescript","value":"// meow\nexport const meow = () => {\n  return 'meow'\n}"},{"kind":2,"language":"typescript","value":"// meow_test\nimport { meow } from './meow.ts'\nimport { assertEquals } from \"https://deno.land/std@0.171.0/testing/asserts.ts\";\n\nDeno.test(\"meow\", () => {\n  assertEquals(meow(), 'meow');\n});"}]}
