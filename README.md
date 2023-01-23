@@ -1,7 +1,6 @@
 # vscode deno notebook (denote)
 
-> This is a proof of concept
-> Full article here https://dev.to/reggi/vscode-deno-notebook-48kp
+> This is a proof of concept (full article: https://dev.to/reggi/vscode-deno-notebook-48kp)
 
 To test the extension do the following:
 
